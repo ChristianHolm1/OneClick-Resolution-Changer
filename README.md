@@ -7,9 +7,9 @@ This project offers a set of batch files designed to quickly switch between vari
 The batch files within this repository are intended to streamline the process of altering screen resolutions. Users can execute specific batch files to transition between predetermined resolution configurations without manual intervention in system settings.
 
 ## Included Files:
-- **switch_resolution_2560x1440_to_3440x1400.bat**: Changes resolution from 2560x1440 to 3440x1400 and vice versa.
-- **switch_resolution_1920x1080_to_2560x1080.bat**: Transitions between 1920x1080 and 2560x1080 resolutions.
-- **switch_resolution_2560x1440_to_1920x1080.bat**: Alters resolution between 2560x1440 and 1920x1080.
+- **switch_resolution_2560x1440_to_3440x1400.bat**: Changes resolution from 2560x1440 (1440p) to 3440x1400 (ultrawide 1440p) and vice versa.
+- **switch_resolution_1920x1080_to_2560x1080.bat**: Changes resolution from 1920x1080 (1080p) to 2560x1080 (ultrawide 1080p) and vice versa.
+- **switch_resolution_2560x1440_to_1920x1080.bat**: Changes resolution from 2560x1440 (1440p) to 1920x1080 (1080p) and vice versa.
 
 ## Usage Instructions:
 1. **Setup**: Place the 'ChangeScreenResolution.exe' tool from [taubenkorb.at](https://tools.taubenkorb.at/change-screen-resolution/) in the same directory as the batch files.
